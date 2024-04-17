@@ -7,12 +7,14 @@
 .list{
     font-style: italic;
     color: white;
+    
 }
 
 .video {
     text-decoration: underline;
     font-weight: bolder;
     font-style: italic;
+    text-align: center;
 }
 
 body{
